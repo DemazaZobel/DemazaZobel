@@ -1,7 +1,7 @@
 
 # Hi, I'm Betelhem 👋
 
-A Software Engineering graduate interested in building practical solutions through technology. I'm currently exploring AI engineering and data science, with a growing interest in how intelligent systems can solve real-world problems.
+A Software Engineering interested in building practical solutions through technology. I'm currently exploring AI engineering and data science, with a growing interest in how intelligent systems can solve real-world problems.
 
 ---
 
