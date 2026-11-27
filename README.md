@@ -1,8 +1,9 @@
 # Hi, I'm Betelhem 👋
 
-I'm a Software Engineering graduate interested in building practical solutions through tech. I'm currently exploring AI engineering and data science, with a growing interest in how intelligent systems can solve real-world problems.
-
-### 🛠️ Tools & Technologies
+A Software Engineering interested in building practical solutions through tech. I'm currently exploring AI engineering 
+and data science, with a growing interest in how intelligent systems can solve real-world problems.
+---
+### Tools & Tech
 
 **Languages:** Python, JavaScript, SQL, TypeScript, HTML, CSS
 
@@ -17,8 +18,8 @@ I'm a Software Engineering graduate interested in building practical solutions t
 **Databases:** PostgreSQL
 
 **Tools:** Git, GitHub, Google Colab, Gradio, FFmpeg, VS Code
-
-### ✨ A Bit About Me
+---
+###  A Bit About Me
 
 - I enjoy breaking down complex problems, presenting them and turning ideas into practical solutions.
 - Interested in the intersection of technology, business, and AI.
