@@ -7,7 +7,7 @@ A Software Engineering interested in building practical solutions through techno
 
 ### Tools & Technologies
 
-**Languages:** Python, JavaScript, TypeScript, SQL, HTML, CSS
+**Languages:** Python, JavaScript, SQL, HTML, CSS
 
 **Frontend:** React, Next.js, Tailwind CSS
 
