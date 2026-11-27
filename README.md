@@ -5,11 +5,17 @@ I'm a Software Engineering graduate interested in building practical solutions t
 ### 🛠️ Tools & Technologies
 
 **Languages:** Python, JavaScript, SQL, TypeScript, HTML, CSS
+
 **Frontend:** React, Next.js, Tailwind CSS
+
 **Backend:** Node.js, Express.js, FastAPI
+
 **AI Engineering:** Hugging Face Transformers, LangChain, RAG, AI Agents, Model Integration, LLM APIs
+
 **Data Science:** NumPy, Pandas, Matplotlib
+
 **Databases:** PostgreSQL
+
 **Tools:** Git, GitHub, Google Colab, Gradio, FFmpeg, VS Code
 
 ### ✨ A Bit About Me
